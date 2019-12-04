@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-04T18:37:43.670Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:70.0) Gecko/20100101 Firefox/70.0" etag="Ax0lJRxd0tZQDqdRt7xv" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-04T18:42:15.121Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:70.0) Gecko/20100101 Firefox/70.0" etag="VWX1bTAJZ1sE4LMezV0X" version="12.3.6" type="github" pages="1">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1026" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="6E8ClF00xarZo6M1mU1G-67" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="417" y="120" width="232" height="65.5" as="geometry"/>
         </mxCell>
-        <mxCell id="6E8ClF00xarZo6M1mU1G-68" value="James Santopietro&#xa;Treasurer" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-67">
+        <mxCell id="6E8ClF00xarZo6M1mU1G-68" value="Jim Santopietro&#xa;Treasurer" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-67">
           <mxGeometry x="32" y="5.5" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="6E8ClF00xarZo6M1mU1G-69" value="" style="group" vertex="1" connectable="0" parent="6E8ClF00xarZo6M1mU1G-67">
@@ -142,7 +142,7 @@
         <mxCell id="6E8ClF00xarZo6M1mU1G-132" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="870" y="280" width="232" height="65.5" as="geometry"/>
         </mxCell>
-        <mxCell id="6E8ClF00xarZo6M1mU1G-133" value="David Wilkins&#xa;Ranger Advisor" style="rounded=1;fillColor=#994C00;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-132">
+        <mxCell id="6E8ClF00xarZo6M1mU1G-133" value="Dave Wilkins&#xa;Ranger Advisor" style="rounded=1;fillColor=#994C00;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-132">
           <mxGeometry x="32" y="5.5" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="6E8ClF00xarZo6M1mU1G-134" value="" style="group" vertex="1" connectable="0" parent="6E8ClF00xarZo6M1mU1G-132">
@@ -202,8 +202,8 @@
         </mxCell>
         <mxCell id="6E8ClF00xarZo6M1mU1G-169" value="" style="endArrow=classic;html=1;strokeColor=#4D4D4D;strokeWidth=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1420" y="188" as="sourcePoint"/>
-            <mxPoint x="1420" y="380" as="targetPoint"/>
+            <mxPoint x="1420" y="192" as="sourcePoint"/>
+            <mxPoint x="1420" y="384" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="6E8ClF00xarZo6M1mU1G-168" value="" style="endArrow=classic;html=1;strokeColor=#4D4D4D;strokeWidth=6;entryX=0.449;entryY=-0.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
