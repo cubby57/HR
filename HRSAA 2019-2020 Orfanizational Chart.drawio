@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-04T18:42:15.121Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:70.0) Gecko/20100101 Firefox/70.0" etag="VWX1bTAJZ1sE4LMezV0X" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-04T19:10:36.526Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:70.0) Gecko/20100101 Firefox/70.0" etag="ehrzep75N4feid0Sf4RS" version="12.3.6" type="github" pages="1">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1026" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -92,21 +92,6 @@
           <mxGeometry width="60" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="6E8ClF00xarZo6M1mU1G-86" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-84">
-          <mxGeometry x="10" y="4.5" width="40" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="6E8ClF00xarZo6M1mU1G-87" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="120" width="232" height="65.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="6E8ClF00xarZo6M1mU1G-88" value="Vacant&#xa;Director of Operations" style="rounded=1;fillColor=#3399FF;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-87">
-          <mxGeometry x="32" y="5.5" width="200" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="6E8ClF00xarZo6M1mU1G-89" value="" style="group" vertex="1" connectable="0" parent="6E8ClF00xarZo6M1mU1G-87">
-          <mxGeometry x="-17" width="60" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="6E8ClF00xarZo6M1mU1G-90" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#424242;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-89">
-          <mxGeometry width="60" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="6E8ClF00xarZo6M1mU1G-91" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-89">
           <mxGeometry x="10" y="4.5" width="40" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="6E8ClF00xarZo6M1mU1G-92" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -376,6 +361,21 @@
         </mxCell>
         <mxCell id="6E8ClF00xarZo6M1mU1G-174" value="Membership and Marketing Committee" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="6E8ClF00xarZo6M1mU1G-180">
           <mxGeometry y="340" width="290" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6E8ClF00xarZo6M1mU1G-181" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="120" width="232" height="65.5" as="geometry"/>
+        </mxCell>
+        <mxCell id="6E8ClF00xarZo6M1mU1G-182" value="Adam Hoffman&#xa;Director of Operations" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-181">
+          <mxGeometry x="32" y="5.5" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6E8ClF00xarZo6M1mU1G-183" value="" style="group" vertex="1" connectable="0" parent="6E8ClF00xarZo6M1mU1G-181">
+          <mxGeometry x="-17" width="60" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6E8ClF00xarZo6M1mU1G-184" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BABABA;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-183">
+          <mxGeometry width="60" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6E8ClF00xarZo6M1mU1G-185" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-183">
+          <mxGeometry x="10" y="4.5" width="40" height="50" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
