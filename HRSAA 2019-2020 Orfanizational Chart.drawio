@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-04T19:10:36.526Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:70.0) Gecko/20100101 Firefox/70.0" etag="ehrzep75N4feid0Sf4RS" version="12.3.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T00:59:11.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:70.0) Gecko/20100101 Firefox/70.0" etag="kADVU4gDzvjxgkueC1lk" version="12.3.6" type="github" pages="1">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1426" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -212,7 +212,7 @@
         <mxCell id="6E8ClF00xarZo6M1mU1G-102" value="" style="group" vertex="1" connectable="0" parent="6E8ClF00xarZo6M1mU1G-179">
           <mxGeometry x="38" width="232" height="65.5" as="geometry"/>
         </mxCell>
-        <mxCell id="6E8ClF00xarZo6M1mU1G-103" value="Adam Hoffman&#xa;Chairperson of Activities&#xa;and Service" style="rounded=1;fillColor=#006600;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-102">
+        <mxCell id="6E8ClF00xarZo6M1mU1G-103" value="Adam Hoffman&#xa;Chairperson" style="rounded=1;fillColor=#006600;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="6E8ClF00xarZo6M1mU1G-102">
           <mxGeometry x="32" y="5.5" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="6E8ClF00xarZo6M1mU1G-104" value="" style="group" vertex="1" connectable="0" parent="6E8ClF00xarZo6M1mU1G-102">
